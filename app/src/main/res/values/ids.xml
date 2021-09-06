@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab_tambah" type="id" />
+    <item name="pb_data" type="id" />
+    <item name="srl_data" type="id" />
+    <item name="et_nama" type="id" />
+    <item name="et_alamat" type="id" />
+    <item name="et_telepon" type="id" />
+    <item name="btn_simpan" type="id" />
+    <item name="btn_ubah" type="id" />
+</resources>
